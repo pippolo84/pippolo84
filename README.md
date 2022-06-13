@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [Develer](https://www.develer.com/)
+- 🏢 I'm currently working at [Isovalent](https://www.isovalent.com/)
 - ⚙️ I like to write code in: `Go`, `C`, `C++` and `Python`
 - :100: I'm passionate about **Linux kernel internals**, **system programming** and **distributed systems**
 - 🌍 In my spare time, I contribute to [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Fabio+Falzoi), [Go](https://github.com/golang/go/commits?author=pippolo84) and [cilium/ebpf](https://github.com/cilium/ebpf/commits?author=pippolo84)
